@@ -1,0 +1,20 @@
+# Promela 
+The order in which it should be read is:
+1. hello
+2. variables_A
+3. variables_B
+4. proctype
+5. run
+6. conditional
+7. ifelse
+8. statement 
+9. loop 
+10. macro
+11. function
+12. concurrency_A
+13. concurrency_B
+14. records
+15. array
+16. mtype
+17. unless
+18. message
